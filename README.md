@@ -1,7 +1,9 @@
 # HC Architect
-Basically flunked the interview. Dumb day for me. Lesson learned. Need to refine my communication skills and the way I compose my answers.
+Basically flunked the interview. Dumb day for me. Lesson learned. Need to refine my communication skills and the way I compose my answers. 
 
 #### Topics Discussed
+Just taking notes on what I can remember, and try to create answers
+
 - entity modeling
 ```
 car
