@@ -17,3 +17,4 @@ transaction
 multiple txn, one db
 how not to lock 
 ```
+https://towardsdatascience.com/distributed-transactions-and-why-you-should-care-116b6da8d72
