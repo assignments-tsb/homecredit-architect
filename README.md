@@ -4,7 +4,9 @@ Basically flunked the interview. Dumb day for me. Lesson learned.
 #### Topics Discussed
 - entity modeling
 ```
-
+car
+bus
+boat
 ```
 - solutions design
 ```
